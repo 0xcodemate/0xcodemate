@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+Engineer.;Over+12+years+of+Experience+in+Web+and+Software Engineering." alt="Typing SVG" /></a>
 </div>
 
 
@@ -11,29 +11,20 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
-<h3 align="left">Key Focus</h3>
+<h3 align="left">Services</h3>
 <ul align="left">
-  <li>AI Saas Platform development + AI Agent + Bittensor </li>
-  <li>Highly scalable and robust dapps based on EVM and Solana.</li>
-  <li>Blockchain interoperability using cross-chain bridges.</li>
-  <li>Trend AI Crypto Agent</li>
-  <li>Decentralized crypto trading platforms.</li>
+  <li>Frontend Development.</li>
+  <li>Backend Development.</li>
+  <li>Cloud & DevOps Solutions.</li>
+  <li>System Architecture & Consulting.</li>
+  <li>Maintenance & Optimization.</li>
 </ul>
-  
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in cross-chain functionalites.</li>
-  <li>Exploring advanced AI models.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-  <li>Developing extensive AI Experience</li>
-</ul>
-<br />
 <br />
 <br />
 <br />
 
 <p><strong>
-  Freelancing & Working on Superior Crypto & AI
+  Professional working & Freelancing on Full Stack & AI
   <br><br> 
   Vibing to : 🎧  
 </strong></p>
@@ -73,20 +64,19 @@
 ```dart
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "TypeScript", "Python", "Go", "Rust", "Java", "Ruby" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : { "JavaScript (ES6+)", "TypeScript", "Python", "Java", "Go", "C#/.NET", "Ruby", "SQL" },
+    "Frontend" : { "React.js", "Next.js", "Vue.js", "Angular", "React Native", "HTML5", "CSS3/SCSS", "Tailwind CSS", "Material UI", "Bootstrap", "Redux", "Zustand", "React Query", "Webpack", "Vite"},
+    "Backend" : { "Node", "Python", "Java", ".NET/ASP.NET Core", "RESTful APIs", "GraphQL", "WebSockets" },
+    "Database" : { "PostgreSQL", "MySQL", "SQL Server", "MongoDB", "Redis", "DynamoDB", "Elasticsearch", "ORM" },
+    "Cloud & DevOps" : { "AWS", "Azure", "GCP", "Docker", "Kubernetes", "Github Actions/GitLab CI/Jenkins", "Nginx", "Terraform/IaC", "Prometheus/Grafana", "Linux/Unix Systems" },
+    "Testing" : { "Jest/Mocha/PyTest/JUnit", "Integration Testing", "Cypress/Playwright", "Postman/Newman", "Test Automation", "JMeter" }
   };
 }
 ```
 
--  <img alt="GIF" src="https://github.com/miraclerose001/miraclerose001/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/miraclerose001/miraclerose001/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m a Senior Software Engineer with **12+ years** of experience turning coffee into scalable, reliable software. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
-- <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+- <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I build clean, performant full-stack applications, enjoy solving hard problems, and believe good code should be readable, maintainable, and occasionally make future me proud. <br>
 
 <div align="center" >
 
@@ -97,13 +87,6 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-
-
-<div align="center" width='100%'>
-  <h1><a align='center' width='100%' href="#">Please Click Here!</a></h1>
-</div>
 
 <table align="center">
   <tr>
